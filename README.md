@@ -58,7 +58,7 @@ MyBlog tutorial:
 http://sunil-android.blogspot.in/2013/09/slide-menu-navigation-drawer-in-android.html
 
 
-Copyright [2014] [Sunil Gupta]
+Copyright 2014 Sunil Gupta
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
